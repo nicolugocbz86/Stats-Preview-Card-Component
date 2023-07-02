@@ -93,7 +93,7 @@
             }
 
             .card-bottom-top p {
-                align-self: left;
+                margin: auto;
                 width: 85%;
                 line-height: 1.8rem;
                 color: hsla(0, 0%, 100%, 0.6);
